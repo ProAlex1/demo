@@ -1,14 +1,102 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "cars": [
+    {
+      "id": 1,
+      "name": "Audi",
+      "model": "A6",
+      "price": 3500
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "model": "X5",
+      "price": 5500
+    },
+    {
+      "id": 3,
+      "name": "Mazda",
+      "model": "636",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Chery",
+      "model": "QQ",
+      "price": 900
+    },
+    {
+      "id": 5,
+      "name": "Fiat",
+      "model": "Doblo",
+      "price": 4500
+    },
+    {
+      "id": 7,
+      "name": "Siat",
+      "model": "Lion2",
+      "price": 990
+    },
+    {
+      "id": 9,
+      "name": "Porche",
+      "model": "Cayen",
+      "price": 50000
+    },
+    {
+      "id": 10,
+      "name": "Mecedes",
+      "model": "S500",
+      "price": 35000
+    },
+    {
+      "id": 11,
+      "name": "Bugatti",
+      "model": "Veyron",
+      "price": 17577
+    },
+    {
+      "id": 12,
+      "name": "Nissan",
+      "model": "Juke",
+      "price": 1700
+    },
+    {
+      "id": 13,
+      "name": "Lada",
+      "model": "Kalina",
+      "price": 3500
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Serhey",
+      "email": "patokha@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Alex",
+      "email": "proalexx@yandex.ru",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Vasya",
+      "email": "vasya@mail.ru",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Sergey",
+      "email": "serg@mail.ru",
+      "password": "123",
+      "id": 5
+    }
+  ]
 }
